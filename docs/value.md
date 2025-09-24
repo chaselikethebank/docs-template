@@ -1,35 +1,44 @@
-# Value +
+# <span data-v-549c013f class="icon " style="display:inline; padding: 10px;  padding: 10px; margin-right: 12px;">💎</span> Value + 
 
-## New Acronyms  
+
+
+## <span data-v-549c013f class="icon " style="display:inline; padding: 10px;  margin-right: 12px;">🗽</span> New Acronyms  
 LCTT 
 <br/>
 ROI 
 <br/>
 MD
 
-## Cool Quotes  
+
+## <span data-v-549c013f class="icon " style="display:inline; padding: 10px;  margin-right: 12px;">🎷</span> Cool Quotes  
 - Not Bill Gates  
 - Yes Phil Karlton  
 
-## Systems Thinking / Mental Models and Cognitive Biases  
+
+##  <span data-v-549c013f class="icon " style="display:inline; padding: 10px;  margin-right: 12px;">💭</span> Systems Thinking / Mental Models and Cognitive Biases  
 - The map is not the territory  
 - Present vs Future  
 - Compounding  
 - Second Order Thinking  
 
-## Entertainment  
+
+## <span data-v-549c013f class="icon " style="display:inline; padding: 10px;  margin-right: 12px;">🎮</span> Entertainment  
 - Always have time for Michael Scott  
 
-### 'Turns Out' Counter
+
+## <span data-v-549c013f class="icon " style="display:inline; padding: 10px;  margin-right: 12px;">🔄</span> 'Turns Out' Counter
 - greater than 4
 
-## Practical Frameworks / Templates  
+
+## <span data-v-549c013f class="icon " style="display:inline; padding: 10px;  margin-right: 12px;">🖼️</span> Practical Frameworks / Templates  
 - Development Lifecycle as Docs Framework  
 - Free Template via GitHub  
 
-## Name a Tech Stack  
+
+## <span data-v-549c013f class="icon " style="display:inline; padding: 10px;  margin-right: 12px;">👶🏻</span> Name a Tech Stack  
 - Who else can say they named a tech stack? You will, after this talk! 
-  
+
+
 :::info Special Feeling (Say this aloud to yourself)  
 *Write Documentation; Create Leverage* will deepen my domain-specific knowledge and award me with new perspectives for other domains.  
 :::
