@@ -11,3 +11,5 @@ Think of each phase like a chapter/section in the Documentation; The lifecycle b
 Turns out, you are problably already writting documentation, it just isn't formalized. 
 
 *Turns out counter +1*
+
+
