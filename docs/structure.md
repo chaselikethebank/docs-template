@@ -7,3 +7,7 @@ Let’s walk through the dev lifecycle—not just to understand *when*, but also
 Think of each phase like a chapter/section in the Documentation; The lifecycle becomes a form/framework.  
 
 > When you take a step in your process, delineate that in the documentation. 
+
+Turns out, you are problably already writting documentation, it just isn't formalized. 
+
+*Turns out counter +1*
