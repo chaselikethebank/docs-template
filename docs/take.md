@@ -1,4 +1,4 @@
-# Key Takeaways
+# <span data-v-549c013f class="icon " style="display:inline; padding: 10px;  margin-right: 12px;">🎬</span> Key Takeaways
 
 :::info Special Feeling (Say this aloud to yourself)  
 *Write Documentation; Create Leverage* will deepen my domain-specific knowledge and award me with new perspectives for other domains.  

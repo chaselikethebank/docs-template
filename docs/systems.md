@@ -1,4 +1,4 @@
-# Systems Thinking
+# <span data-v-549c013f class="icon " style="display:inline; padding: 10px;  margin-right: 12px;">⚙️</span> Systems Thinking
 
 > *Temporal evolution is real — dynamic relationships compound across time.*
 
@@ -12,3 +12,4 @@ We document our work. We reference our documentation. We scale our productivity.
 They documented their work.  
 We reference their documentation.  
 We achieve knowledge transfer.  
+

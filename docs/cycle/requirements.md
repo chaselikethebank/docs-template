@@ -1,4 +1,4 @@
-# Definition of Requirements
+# <span data-v-549c013f class="icon " style="display:inline; padding: 10px;  margin-right: 12px;">📋</span> Definition of Requirements
 
 → Docs:
 Negate the moving goalpost / scope creep (ceiling)  

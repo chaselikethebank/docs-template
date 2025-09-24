@@ -1,19 +1,21 @@
 # Why Do We Need a Knowledge Base?
 
 > *There are only two hard things in Computer Science: cache invalidation and naming things.* -- Phil Karlton
-## Naming Things is Hard
+## <span data-v-549c013f class="icon " style="display:inline; padding: 10px;  margin-right: 12px;">🏷️</span> Naming Things is Hard
 
 A knowledge base is basically a big pool for, 'what did we say that was again?'. Turns out, we need to write it down actually. 
 
 *Turns out counter +1*
 
-## Because ... 
+
+## <span data-v-549c013f class="icon " style="display:inline; padding: 10px;  margin-right: 12px;">🚩</span> Because ... 
 
 > *The map is not the territory.*
 
 [Insert Michael from *The Office* driving into the lake]
 
-## Balance  
+
+## <span data-v-549c013f class="icon " style="display:inline; padding: 10px;  margin-right: 12px;">🧘🏻‍♀️</span> Balance  
 We each carry mental models of the work we do—that’s our *map*.  
 We also have the *territory*—our codebase as it lives in production.  
 
@@ -24,7 +26,8 @@ Documentation works best when it bridges the two.
 - Less detail than production  
 :::
 
-## Convergence  
+
+## <span data-v-549c013f class="icon " style="display:inline; padding: 10px;  margin-right: 12px;">🔗</span> Convergence  
 Good documentation converges skills, crafts, process steps, individuals, teams, and versions that might otherwise remain siloed or unaware of each other.  
 
 > Knowing the **why** makes everyone’s input more valuable through shared responsibility.
@@ -38,7 +41,8 @@ The person in the intake meeting is often not the person deploying the code.
 When a designer knows a user must see and act on in a specific way, they will be informed to make that element 'loud enough' and design accordingly.  
 :::
 
-## ROI and LCTT  
+
+## <span data-v-549c013f class="icon " style="display:inline; padding: 10px;  margin-right: 12px;">💰</span> ROI and LCTT  
 
 > *Most people overestimate what they can accomplish in a quarter and underestimate what they can accomplish in a year.* — Not Bill Gates, Yes, J. C. R. Licklider  
 

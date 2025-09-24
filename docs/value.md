@@ -1,3 +1,5 @@
+
+
 # <span data-v-549c013f class="icon " style="display:inline; padding: 10px;  padding: 10px; margin-right: 12px;">💎</span> Value + 
 
 
@@ -35,9 +37,8 @@ MD
 - Free Template via GitHub  
 
 
-## <span data-v-549c013f class="icon " style="display:inline; padding: 10px;  margin-right: 12px; background-color: rgba(101, 117, 133, 0.16); border-radius: 4px;">👶🏻</span> Name a Tech Stack  
-- Who else can say they named a tech stack? You will, after this talk! 
-
+## <span data-v-549c013f class="icon " style="display:inline; padding: 10px;  margin-right: 12px;">👶🏻</span> Name a Tech Stack
+- Who else can say they named a tech stack? You will, after this talk!
 
 :::info Special Feeling (Say this aloud to yourself)  
 *Write Documentation; Create Leverage* will deepen my domain-specific knowledge and award me with new perspectives for other domains.  

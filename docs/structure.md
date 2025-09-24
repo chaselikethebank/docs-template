@@ -1,4 +1,4 @@
-# How do I structure my Documentation?
+# <span data-v-549c013f class="icon " style="display:inline; padding: 10px;  margin-right: 12px;">🏗️</span> How do I structure my Documentation?
 
 > *Typically: every step of the development lifecycle.*
 

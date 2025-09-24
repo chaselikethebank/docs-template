@@ -1,4 +1,4 @@
-# Docs at Every Stage
+# <span data-v-549c013f class="icon " style="display:inline; padding: 10px;  margin-right: 12px;">🎤</span> Docs at Every Stage
 
 Turns out, the lifecycle *is* the outline for your docs.
 

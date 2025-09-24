@@ -1,4 +1,4 @@
-# Definition of Done (DoD)
+# <span data-v-549c013f class="icon " style="display:inline; padding: 10px;  margin-right: 12px;">✅</span> Definition of Done (DoD)
 
 → Docs: 
 ## Criteria for Completion:

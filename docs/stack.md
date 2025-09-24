@@ -1,4 +1,4 @@
-#  New Tech Stack (Needs a Name)
+#  <span data-v-549c013f class="icon " style="display:inline; padding: 10px;  margin-right: 12px;">📚</span> New Tech Stack (Needs a Name)
 
 ?! [Obsidian](https://obsidian.md/) -> [VitePress](https://vitepress.dev/) → [GitHub](https://github.com/) → [Vercel](https://vercel.com/) ?!
 
