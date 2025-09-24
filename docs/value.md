@@ -35,7 +35,7 @@ MD
 - Free Template via GitHub  
 
 
-## <span data-v-549c013f class="icon " style="display:inline; padding: 10px;  margin-right: 12px; background-color: rgba(101, 117, 133, 0.16)">👶🏻</span> Name a Tech Stack  
+## <span data-v-549c013f class="icon " style="display:inline; padding: 10px;  margin-right: 12px; background-color: rgba(101, 117, 133, 0.16) border-radius: 4px;">👶🏻</span> Name a Tech Stack  
 - Who else can say they named a tech stack? You will, after this talk! 
 
 
