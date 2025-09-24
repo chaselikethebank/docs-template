@@ -5,7 +5,7 @@ export default defineConfig({
     description: "Documentation for the development lifecycle",
     themeConfig: {
         search: { provider: "local" },
-        logo: "/hand-twmc-logo.svg",
+        logo: "/amore-fati.svg",
         sidebar: [{
                 text: "I",
                 collapsible: true,
