@@ -26,7 +26,7 @@ Designed primarily for writing documentation using Markdown with Vue-powered com
 
 ## D. Vercel 
 
-[GitActions](https://docs.github.com/en/actions) => CI/CD pipeline (Continuous integration - continuous deployment)
+[GitActions](https://vercel.com/) => CI/CD pipeline (Continuous integration - continuous deployment)
 
 ## Let's Name it RN
 
