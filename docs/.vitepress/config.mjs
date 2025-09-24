@@ -3,6 +3,9 @@ import { defineConfig } from "vitepress";
 export default defineConfig({
     title: "Docs Template",
     description: "Documentation for the development lifecycle",
+    head: [
+        ['link', { rel: 'icon', type: 'image/png', href: '/circle-xxl.png' }]
+    ],
     themeConfig: {
         search: { provider: "local" },
         logo: "/amore-fati.svg",
