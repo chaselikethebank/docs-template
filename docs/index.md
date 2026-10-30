@@ -7,7 +7,7 @@ hero:
   image:
     src: /amore-fati.svg
     alt: Project logo
-  tagline: Frameworks and structure for creating leverage
+  tagline: Frameworks and structures for creating leverage
   actions:
     - theme: brand
       text: Get Started
